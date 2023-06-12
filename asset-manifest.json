@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freddy-resume-page/static/css/main.073c9b0a.css",
+    "main.js": "/freddy-resume-page/static/js/main.bedbe330.js",
+    "static/js/787.3d5c1344.chunk.js": "/freddy-resume-page/static/js/787.3d5c1344.chunk.js",
+    "static/media/logo.svg": "/freddy-resume-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/freddy-resume-page/index.html",
+    "main.073c9b0a.css.map": "/freddy-resume-page/static/css/main.073c9b0a.css.map",
+    "main.bedbe330.js.map": "/freddy-resume-page/static/js/main.bedbe330.js.map",
+    "787.3d5c1344.chunk.js.map": "/freddy-resume-page/static/js/787.3d5c1344.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bedbe330.js"
+  ]
+}
