@@ -12,7 +12,7 @@ const App = () => {
     <>
       <NavbarComponent />
       <Routes>
-        <Route path="/" element={<HomeContainer />} />
+        <Route path="/freddy-resume-page" element={<HomeContainer />} />
         <Route path="/About" element={<About />} />
         <Route path="/Resume" element={<Resume />} />
       </Routes>
