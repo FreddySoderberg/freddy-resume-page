@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c7e2f02.css",
-    "main.js": "/static/js/main.2b481cd8.js",
-    "index.html": "/index.html",
-    "main.5c7e2f02.css.map": "/static/css/main.5c7e2f02.css.map",
-    "main.2b481cd8.js.map": "/static/js/main.2b481cd8.js.map"
+    "main.css": "/freddy-resume-page/static/css/main.5c7e2f02.css",
+    "main.js": "/freddy-resume-page/static/js/main.f2ef5787.js",
+    "index.html": "/freddy-resume-page/index.html",
+    "main.5c7e2f02.css.map": "/freddy-resume-page/static/css/main.5c7e2f02.css.map",
+    "main.f2ef5787.js.map": "/freddy-resume-page/static/js/main.f2ef5787.js.map"
   },
   "entrypoints": [
     "static/css/main.5c7e2f02.css",
-    "static/js/main.2b481cd8.js"
+    "static/js/main.f2ef5787.js"
   ]
 }
